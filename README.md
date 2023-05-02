@@ -1,8 +1,10 @@
 #  Advanced C++ Project: RATP Application 
 
 
-Project Description : 
-
+**Project Description :**   
+Implementation of the Dijkstra algorithm on two databases: a small database with 10 stations and their connections (data/stations.csv, data/connections.csv) and a large database with 760 stations and their connections (data/s.csv, data/c.csv).   
+For this project, we received three files containing all the functions to be implemented in the child class of the algorithm. These files are Generic_connection_parser.hpp, Generic_station_parser.hpp and Generic_mapper.hpp. These functions define how we should retrieve and store data, as well as the return types for the functions as well as the variable types used. 
+Another important file is Grade.hpp which can be used to test the function we implemented and which encountered some problems when testing the algorithm. The outputs of the tests performed are visible in the pdf file.   
 
 **Language used :** C++11 
 
